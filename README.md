@@ -7,4 +7,4 @@ Like a dojo, this is a place of discipline, practice, and constant refinement.
 
 ## Learning Timeline
 
-- 🐍 `PortfolioTracker/` – [Portfolio Tracker - TDD + Clean Code](https://github.com/jinto-josan/CodingDojo/tree/PortfolioTracker)
+- 🐍 `PortfolioTracker/` – [Portfolio Tracker - TDD + Clean Code](https://github.com/jinto-josan/CodingDojo/tree/master/PortfolioTracker)
